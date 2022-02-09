@@ -113,10 +113,10 @@ li a:focus {
 }
 .join-free {
   width: 150px;
-  height: 40xpx;
+  height: 40px;
   background-color: #fe4a55;
   color: white;
-  font-size: 20px;
+  font-size: 50px;
   border: none;
   border-radius: 5px;
 }
