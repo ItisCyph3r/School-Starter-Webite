@@ -307,6 +307,9 @@ li a:focus {
   .picture-sect {
     flex-direction: column;
   }
+  .paid-courses-sect-grid {
+    flex-direction: column;
+  }
   .picture-sect-image img {
     width: 410px;
     height: 400px;
